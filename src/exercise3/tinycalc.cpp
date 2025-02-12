@@ -21,16 +21,16 @@ int main(){
  
     switch(operation){
         case '+':
-            cout << valA + valB ;
+            cout << "\nThe result of your calculation is : " << valA + valB ;
             break;
         case '-':
-            cout << valA - valB ;
+            cout << "\nThe result of your calculation is : " << valA - valB ;
             break;
         case '*':
-            cout << valA * valB ;
+            cout << "\nThe result of your calculation is : " << valA * valB ;
             break;
         case '/':
-            cout << valA * valB ;
+            cout << "\nThe result of your calculation is : " << valA * valB ;
             break;
 
         default :
